@@ -27,7 +27,7 @@ Before you begin working on this project, please do the following:
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
 2. **IMPORTANT**: Click this link ➡️ [Regression Challenge Sign Up](https://cutt.ly/kaggle911) ⬅️ to **join** the competition (otherwise you will not be able to make submissions!)
 3. Review the material on the [DSIR-910 Regression Challenge](https://www.kaggle.com/competitions/dsi-910-ames-housing-challenge/overview)
-4. Review the [data description](https://www.kaggle.com/competitions/dsi-910-ames-housing-challenge/data).
+4. Review the [data description](C).
 
 ## The Modeling Process
 
