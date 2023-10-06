@@ -4,7 +4,7 @@ The city of Ames, Iowa is interested in assessing property value in an effort to
 
 Additionally, regular assessment of potential property values can inform decisions on land use and development. It is vital the predictions be as accurate as possible to avoid deficits and unnecessary cuts.
 
-This analysis aims to answer the question: Can property characteristics in Ames, Iowa be used to predict fair market value, which in turn can be converted into tax revenue? 
+This analysis aims to answer the question: Can we establish a way of predicting fair market value for a collection of properties in Ames, Iowa for the purposes of evaluating upcoming property tax revenue? 
 
 # Data Dictionary
 
